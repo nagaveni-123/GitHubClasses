@@ -1,8 +1,12 @@
 class Program1{
 	public static void main(String[] args){
 		System.out.println("Program1 developer 1");
+<<<<<<< HEAD
      System.out.println("Program1 developer1 UPADTED");
 
 
+=======
+		System.out.println("updated code to here");
+>>>>>>> 64b0e72a06e4c14788534d64e7b1b1089a85d845
 	}
 }
